@@ -201,14 +201,6 @@ Accuracy for class: ship  is 0.0 %
 Accuracy for class: truck is 0.0 %
 ```
 
-## Usage
-
-To run the project, execute the Python script:
-
-```bash
-python cifar10_classification.py
-```
-
 ## References
 
 - [PyTorch Documentation](https://pytorch.org/docs/stable/index.html)
